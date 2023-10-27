@@ -10,4 +10,5 @@ package org.example;
          System.out.println("Starting the vehicle");
      }
      public abstract String tobuy();
+
 }
